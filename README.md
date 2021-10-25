@@ -10,3 +10,6 @@ Commands:
 * Compile with vlog +acc=npr 
 * Add waves 
 * run -all
+
+Chipverify: 
+https://www.chipverify.com/uvm/uvm-verification-testbench-example
